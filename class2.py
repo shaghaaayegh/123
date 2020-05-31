@@ -1,5 +1,5 @@
 #tabe
-'''def first(n):
+def first(n):
     a=list()
     for i in range (1,n+1):
         a.append(i)
@@ -12,7 +12,7 @@ def first_generator(n):
         yield i
 
 for i in first_generator(10):
-    print(i)'''
+    print(i)
 
 
 
